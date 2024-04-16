@@ -3,13 +3,13 @@
 
 /* Css Variables */
 :root {
-    --primary-color: #3d0066;
+    --primary-color: #a486d5;
     --heading-color: #fff;
     --btn-primary-bg: #3d0066;
     --btn-secondary-bg: #001d3d;
     --team-card-bg: #c670ff;
     --link-color: #fff;
-    --link-active: #3d0066;
+    --link-active: #c670ff;
     --card-bg: linear-gradient(
         45deg,
         rgba(15, 18, 61, 1) 33%,
@@ -22,7 +22,7 @@
     rgba(29, 129, 176, 1) 55%,
     rgba(35, 93, 173, 1) 75%
   );
-  --body-bg: rgba(6, 11, 26, 1);
+  --body-bg: #020213;
   --newsletter-bg: linear-gradient(
     90deg,
     rgba(27, 9, 115, 1) 20%,
